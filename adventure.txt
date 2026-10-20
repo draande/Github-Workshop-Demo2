@@ -1,3 +1,5 @@
 touch
 
 The hero begins their adventure.
+
+The hero finds a magical sword.
