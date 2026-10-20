@@ -22,7 +22,7 @@ cd Github-Workshop-Demo2
 
 ### 📝 Step 3: Create a File
 
-1. Create a text file called `adventure.txt` using `touch`.
+1. Create a text file called `adventure.txt` usincdg `touch`.
 2. Add the following line to the file:
 
 ```text
